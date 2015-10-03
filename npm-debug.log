@@ -1,0 +1,776 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'shrinkwrap' ]
+2 info using npm@2.14.3
+3 info using node@v4.1.0
+4 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpspec\node_modules\gulp-todo\node_modules\gulp-util\node_modules\dateformat\node_modules\meow\node_modules\indent-string requires get-stdin@'^4.0.1' but will load
+4 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpspec\node_modules\gulp-todo\node_modules\gulp-util\node_modules\dateformat\node_modules\get-stdin,
+4 warn unmet dependency which is version 5.0.0
+5 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpunit\node_modules\gulp\node_modules\gulp-util\node_modules\dateformat\node_modules\meow\node_modules\indent-string requires get-stdin@'^4.0.1' but will load
+5 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpunit\node_modules\gulp\node_modules\gulp-util\node_modules\dateformat\node_modules\get-stdin,
+5 warn unmet dependency which is version 5.0.0
+6 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-ruby-sass\node_modules\vinyl-fs\node_modules\glob-watcher\node_modules\gaze\node_modules\globule\node_modules\glob requires graceful-fs@'~1.2.0' but will load
+6 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-ruby-sass\node_modules\vinyl-fs\node_modules\graceful-fs,
+6 warn unmet dependency which is version 3.0.8
+7 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\watchify\node_modules\browserify requires through2@'^1.0.0' but will load
+7 warn unmet dependency C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\watchify\node_modules\through2,
+7 warn unmet dependency which is version 0.6.5
+8 verbose stack Error: Problems were encountered
+8 verbose stack Please correct and try again.
+8 verbose stack missing: babel-plugin-constant-folding@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-dead-code-elimination@^1.0.2, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-eval@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-inline-environment-variables@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-jscript@^1.0.4, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-member-expression-literals@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-property-literals@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-proto-to-assign@^1.0.3, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-react-constant-elements@^1.0.3, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-react-display-name@^1.0.3, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-remove-console@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-remove-debugger@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-runtime@^1.0.7, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-undeclared-variables-check@^1.0.2, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-undefined-to-void@^1.1.6, required by babel-core@5.8.25
+8 verbose stack missing: babylon@^5.8.23, required by babel-core@5.8.25
+8 verbose stack missing: bluebird@^2.9.33, required by babel-core@5.8.25
+8 verbose stack missing: chalk@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: convert-source-map@^1.1.0, required by babel-core@5.8.25
+8 verbose stack missing: core-js@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: debug@^2.1.1, required by babel-core@5.8.25
+8 verbose stack missing: detect-indent@^3.0.0, required by babel-core@5.8.25
+8 verbose stack missing: esutils@^2.0.0, required by babel-core@5.8.25
+8 verbose stack missing: fs-readdir-recursive@^0.1.0, required by babel-core@5.8.25
+8 verbose stack missing: globals@^6.4.0, required by babel-core@5.8.25
+8 verbose stack missing: home-or-tmp@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: is-integer@^1.0.4, required by babel-core@5.8.25
+8 verbose stack missing: js-tokens@1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: json5@^0.4.0, required by babel-core@5.8.25
+8 verbose stack missing: line-numbers@0.2.0, required by babel-core@5.8.25
+8 verbose stack missing: lodash@^3.10.0, required by babel-core@5.8.25
+8 verbose stack missing: minimatch@^2.0.3, required by babel-core@5.8.25
+8 verbose stack missing: output-file-sync@^1.1.0, required by babel-core@5.8.25
+8 verbose stack missing: path-exists@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: path-is-absolute@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: private@^0.1.6, required by babel-core@5.8.25
+8 verbose stack missing: regenerator@0.8.35, required by babel-core@5.8.25
+8 verbose stack missing: regexpu@^1.1.2, required by babel-core@5.8.25
+8 verbose stack missing: repeating@^1.1.2, required by babel-core@5.8.25
+8 verbose stack missing: resolve@^1.1.6, required by babel-core@5.8.25
+8 verbose stack missing: shebang-regex@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: slash@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: source-map@^0.4.0, required by babel-core@5.8.25
+8 verbose stack missing: source-map-support@^0.2.10, required by babel-core@5.8.25
+8 verbose stack missing: to-fast-properties@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: trim-right@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: try-resolve@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: JSONStream@~0.10.0, required by browserify@9.0.8
+8 verbose stack missing: assert@~1.3.0, required by browserify@9.0.8
+8 verbose stack missing: browser-pack@^4.0.0, required by browserify@9.0.8
+8 verbose stack missing: browser-resolve@^1.7.1, required by browserify@9.0.8
+8 verbose stack missing: browserify-zlib@~0.1.2, required by browserify@9.0.8
+8 verbose stack missing: buffer@^3.0.0, required by browserify@9.0.8
+8 verbose stack missing: builtins@~0.0.3, required by browserify@9.0.8
+8 verbose stack missing: commondir@0.0.1, required by browserify@9.0.8
+8 verbose stack missing: concat-stream@~1.4.1, required by browserify@9.0.8
+8 verbose stack missing: console-browserify@^1.1.0, required by browserify@9.0.8
+8 verbose stack missing: constants-browserify@~0.0.1, required by browserify@9.0.8
+8 verbose stack missing: crypto-browserify@^3.0.0, required by browserify@9.0.8
+8 verbose stack missing: deep-equal@^1.0.0, required by browserify@9.0.8
+8 verbose stack missing: defined@~0.0.0, required by browserify@9.0.8
+8 verbose stack missing: deps-sort@^1.3.5, required by browserify@9.0.8
+8 verbose stack missing: domain-browser@~1.1.0, required by browserify@9.0.8
+8 verbose stack missing: duplexer2@~0.0.2, required by browserify@9.0.8
+8 verbose stack missing: events@~1.0.0, required by browserify@9.0.8
+8 verbose stack missing: glob@^4.0.5, required by browserify@9.0.8
+8 verbose stack missing: has@^1.0.0, required by browserify@9.0.8
+8 verbose stack missing: http-browserify@^1.4.0, required by browserify@9.0.8
+8 verbose stack missing: https-browserify@~0.0.0, required by browserify@9.0.8
+8 verbose stack missing: inherits@~2.0.1, required by browserify@9.0.8
+8 verbose stack missing: insert-module-globals@^6.2.0, required by browserify@9.0.8
+8 verbose stack missing: isarray@0.0.1, required by browserify@9.0.8
+8 verbose stack missing: labeled-stream-splicer@^1.0.0, required by browserify@9.0.8
+8 verbose stack missing: module-deps@^3.7.0, required by browserify@9.0.8
+8 verbose stack missing: os-browserify@~0.1.1, required by browserify@9.0.8
+8 verbose stack missing: parents@^1.0.1, required by browserify@9.0.8
+8 verbose stack missing: path-browserify@~0.0.0, required by browserify@9.0.8
+8 verbose stack missing: process@^0.10.0, required by browserify@9.0.8
+8 verbose stack missing: punycode@~1.2.3, required by browserify@9.0.8
+8 verbose stack missing: querystring-es3@~0.2.0, required by browserify@9.0.8
+8 verbose stack missing: read-only-stream@^1.1.1, required by browserify@9.0.8
+8 verbose stack missing: readable-stream@^1.1.13, required by browserify@9.0.8
+8 verbose stack missing: resolve@^1.1.4, required by browserify@9.0.8
+8 verbose stack missing: shallow-copy@0.0.1, required by browserify@9.0.8
+8 verbose stack missing: shasum@^1.0.0, required by browserify@9.0.8
+8 verbose stack missing: shell-quote@~0.0.1, required by browserify@9.0.8
+8 verbose stack missing: stream-browserify@^1.0.0, required by browserify@9.0.8
+8 verbose stack missing: string_decoder@~0.10.0, required by browserify@9.0.8
+8 verbose stack missing: subarg@^1.0.0, required by browserify@9.0.8
+8 verbose stack missing: syntax-error@^1.1.1, required by browserify@9.0.8
+8 verbose stack missing: through2@^1.0.0, required by browserify@9.0.8
+8 verbose stack missing: timers-browserify@^1.0.1, required by browserify@9.0.8
+8 verbose stack missing: tty-browserify@~0.0.0, required by browserify@9.0.8
+8 verbose stack missing: url@~0.10.1, required by browserify@9.0.8
+8 verbose stack missing: util@~0.10.1, required by browserify@9.0.8
+8 verbose stack missing: vm-browserify@~0.0.1, required by browserify@9.0.8
+8 verbose stack missing: xtend@^3.0.0, required by browserify@9.0.8
+8 verbose stack missing: source-map@~0.1.40, required by postcss@2.2.6
+8 verbose stack missing: js-base64@~2.1.5, required by postcss@2.2.6
+8 verbose stack missing: babel-plugin-constant-folding@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-dead-code-elimination@^1.0.2, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-eval@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-inline-environment-variables@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-jscript@^1.0.4, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-member-expression-literals@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-property-literals@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-proto-to-assign@^1.0.3, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-react-constant-elements@^1.0.3, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-react-display-name@^1.0.3, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-remove-console@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-remove-debugger@^1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-runtime@^1.0.7, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-undeclared-variables-check@^1.0.2, required by babel-core@5.8.25
+8 verbose stack missing: babel-plugin-undefined-to-void@^1.1.6, required by babel-core@5.8.25
+8 verbose stack missing: babylon@^5.8.23, required by babel-core@5.8.25
+8 verbose stack missing: bluebird@^2.9.33, required by babel-core@5.8.25
+8 verbose stack missing: chalk@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: convert-source-map@^1.1.0, required by babel-core@5.8.25
+8 verbose stack missing: core-js@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: debug@^2.1.1, required by babel-core@5.8.25
+8 verbose stack missing: detect-indent@^3.0.0, required by babel-core@5.8.25
+8 verbose stack missing: esutils@^2.0.0, required by babel-core@5.8.25
+8 verbose stack missing: fs-readdir-recursive@^0.1.0, required by babel-core@5.8.25
+8 verbose stack missing: globals@^6.4.0, required by babel-core@5.8.25
+8 verbose stack missing: home-or-tmp@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: is-integer@^1.0.4, required by babel-core@5.8.25
+8 verbose stack missing: js-tokens@1.0.1, required by babel-core@5.8.25
+8 verbose stack missing: json5@^0.4.0, required by babel-core@5.8.25
+8 verbose stack missing: line-numbers@0.2.0, required by babel-core@5.8.25
+8 verbose stack missing: lodash@^3.10.0, required by babel-core@5.8.25
+8 verbose stack missing: minimatch@^2.0.3, required by babel-core@5.8.25
+8 verbose stack missing: output-file-sync@^1.1.0, required by babel-core@5.8.25
+8 verbose stack missing: path-exists@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: path-is-absolute@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: private@^0.1.6, required by babel-core@5.8.25
+8 verbose stack missing: regenerator@0.8.35, required by babel-core@5.8.25
+8 verbose stack missing: regexpu@^1.1.2, required by babel-core@5.8.25
+8 verbose stack missing: repeating@^1.1.2, required by babel-core@5.8.25
+8 verbose stack missing: resolve@^1.1.6, required by babel-core@5.8.25
+8 verbose stack missing: shebang-regex@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: slash@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: source-map@^0.4.0, required by babel-core@5.8.25
+8 verbose stack missing: source-map-support@^0.2.10, required by babel-core@5.8.25
+8 verbose stack missing: to-fast-properties@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: trim-right@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: try-resolve@^1.0.0, required by babel-core@5.8.25
+8 verbose stack missing: balanced-match@^0.2.0, required by brace-expansion@1.1.0
+8 verbose stack missing: concat-map@0.0.1, required by brace-expansion@1.1.0
+8 verbose stack missing: amdefine@>=0.0.4, required by source-map@0.1.34
+8 verbose stack missing: camelcase@^1.0.2, required by yargs@3.5.4
+8 verbose stack missing: decamelize@^1.0.0, required by yargs@3.5.4
+8 verbose stack missing: window-size@0.1.0, required by yargs@3.5.4
+8 verbose stack missing: wordwrap@0.0.2, required by yargs@3.5.4
+8 verbose stack missing: amdefine@>=0.0.4, required by source-map@0.1.43
+8 verbose stack missing: amdefine@>=0.0.4, required by source-map@0.1.43
+8 verbose stack missing: ansi-regex@^0.2.0, required by has-ansi@0.1.0
+8 verbose stack missing: ansi-regex@^0.2.1, required by strip-ansi@0.3.0
+8 verbose stack missing: get-stdin@*, required by dateformat@1.0.11
+8 verbose stack missing: meow@*, required by dateformat@1.0.11
+8 verbose stack missing: readable-stream@~1.1.9, required by duplexer2@0.0.2
+8 verbose stack missing: core-util-is@~1.0.0, required by readable-stream@1.0.33
+8 verbose stack missing: isarray@0.0.1, required by readable-stream@1.0.33
+8 verbose stack missing: string_decoder@~0.10.x, required by readable-stream@1.0.33
+8 verbose stack missing: inherits@~2.0.1, required by readable-stream@1.0.33
+8 verbose stack missing: clone-stats@~0.0.1, required by vinyl@0.2.3
+8 verbose stack missing: semver@^3.0.1, required by node-notifier@3.4.1
+8 verbose stack missing: shellwords@^0.1.0, required by node-notifier@3.4.1
+8 verbose stack missing: which@^1.0.5, required by node-notifier@3.4.1
+8 verbose stack missing: growly@^1.1.1, required by node-notifier@3.4.1
+8 verbose stack missing: ansi-regex@^2.0.0, required by has-ansi@2.0.0
+8 verbose stack missing: ansi-regex@^2.0.0, required by strip-ansi@3.0.0
+8 verbose stack missing: get-stdin@*, required by dateformat@1.0.11
+8 verbose stack missing: meow@*, required by dateformat@1.0.11
+8 verbose stack missing: lodash._getnative@^3.0.0, required by lodash.keys@3.1.2
+8 verbose stack missing: lodash.isarguments@^3.0.0, required by lodash.keys@3.1.2
+8 verbose stack missing: lodash.isarray@^3.0.0, required by lodash.keys@3.1.2
+8 verbose stack missing: readable-stream@~1.1.9, required by duplexer2@0.0.2
+8 verbose stack missing: core-util-is@~1.0.0, required by readable-stream@2.0.2
+8 verbose stack missing: inherits@~2.0.1, required by readable-stream@2.0.2
+8 verbose stack missing: isarray@0.0.1, required by readable-stream@2.0.2
+8 verbose stack missing: process-nextick-args@~1.0.0, required by readable-stream@2.0.2
+8 verbose stack missing: string_decoder@~0.10.x, required by readable-stream@2.0.2
+8 verbose stack missing: util-deprecate@~1.0.1, required by readable-stream@2.0.2
+8 verbose stack missing: clone@^1.0.0, required by vinyl@0.5.3
+8 verbose stack missing: clone-stats@^0.0.1, required by vinyl@0.5.3
+8 verbose stack invalid: get-stdin@5.0.0 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpspec\node_modules\gulp-todo\node_modules\gulp-util\node_modules\dateformat\node_modules\get-stdin
+8 verbose stack missing: camelcase@^1.0.1, required by camelcase-keys@1.0.0
+8 verbose stack missing: map-obj@^1.0.0, required by camelcase-keys@1.0.0
+8 verbose stack missing: repeating@^1.1.0, required by indent-string@1.2.2
+8 verbose stack missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+8 verbose stack missing: isarray@0.0.1, required by readable-stream@1.1.13
+8 verbose stack missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+8 verbose stack missing: inherits@~2.0.1, required by readable-stream@1.1.13
+8 verbose stack missing: balanced-match@^0.2.0, required by brace-expansion@1.1.0
+8 verbose stack missing: concat-map@0.0.1, required by brace-expansion@1.1.0
+8 verbose stack missing: is-finite@^1.0.0, required by repeating@1.1.3
+8 verbose stack missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+8 verbose stack missing: isarray@0.0.1, required by readable-stream@1.1.13
+8 verbose stack missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+8 verbose stack missing: inherits@~2.0.1, required by readable-stream@1.1.13
+8 verbose stack missing: is-finite@^1.0.0, required by repeating@1.1.3
+8 verbose stack missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+8 verbose stack missing: isarray@0.0.1, required by readable-stream@1.1.13
+8 verbose stack missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+8 verbose stack missing: inherits@~2.0.1, required by readable-stream@1.1.13
+8 verbose stack invalid: get-stdin@5.0.0 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpunit\node_modules\gulp\node_modules\gulp-util\node_modules\dateformat\node_modules\get-stdin
+8 verbose stack missing: camelcase@^1.0.1, required by camelcase-keys@1.0.0
+8 verbose stack missing: map-obj@^1.0.0, required by camelcase-keys@1.0.0
+8 verbose stack missing: repeating@^1.1.0, required by indent-string@1.2.2
+8 verbose stack missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+8 verbose stack missing: isarray@0.0.1, required by readable-stream@1.1.13
+8 verbose stack missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+8 verbose stack missing: inherits@~2.0.1, required by readable-stream@1.1.13
+8 verbose stack missing: wrappy@1, required by inflight@1.0.4
+8 verbose stack missing: brace-expansion@^1.0.0, required by minimatch@2.0.10
+8 verbose stack missing: wrappy@1, required by once@1.3.2
+8 verbose stack missing: wrappy@1, required by inflight@1.0.4
+8 verbose stack missing: wrappy@1, required by once@1.3.2
+8 verbose stack missing: balanced-match@^0.2.0, required by brace-expansion@1.1.0
+8 verbose stack missing: concat-map@0.0.1, required by brace-expansion@1.1.0
+8 verbose stack missing: lodash@~1.0.1, required by globule@0.1.0
+8 verbose stack missing: glob@~3.1.21, required by globule@0.1.0
+8 verbose stack missing: minimatch@~0.2.11, required by globule@0.1.0
+8 verbose stack missing: readable-stream@~2.0.0, required by through2@2.0.0
+8 verbose stack missing: inherits@1, required by glob@3.1.21
+8 verbose stack missing: lru-cache@2, required by minimatch@0.2.14
+8 verbose stack missing: sigmund@~1.0.0, required by minimatch@0.2.14
+8 verbose stack invalid: graceful-fs@3.0.8 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-ruby-sass\node_modules\vinyl-fs\node_modules\graceful-fs
+8 verbose stack missing: async-foreach@^0.1.3, required by node-sass@3.3.3
+8 verbose stack missing: chalk@^1.1.1, required by node-sass@3.3.3
+8 verbose stack missing: cross-spawn@^2.0.0, required by node-sass@3.3.3
+8 verbose stack missing: gaze@^0.5.1, required by node-sass@3.3.3
+8 verbose stack missing: get-stdin@^4.0.1, required by node-sass@3.3.3
+8 verbose stack missing: glob@^5.0.14, required by node-sass@3.3.3
+8 verbose stack missing: meow@^3.3.0, required by node-sass@3.3.3
+8 verbose stack missing: mkdirp@^0.5.1, required by node-sass@3.3.3
+8 verbose stack missing: nan@^2.0.8, required by node-sass@3.3.3
+8 verbose stack missing: npmconf@^2.1.2, required by node-sass@3.3.3
+8 verbose stack missing: node-gyp@^3.0.1, required by node-sass@3.3.3
+8 verbose stack missing: request@^2.61.0, required by node-sass@3.3.3
+8 verbose stack missing: sass-graph@^2.0.1, required by node-sass@3.3.3
+8 verbose stack missing: number-is-nan@^1.0.0, required by is-finite@1.0.1
+8 verbose stack missing: amdefine@>=0.0.4, required by source-map@0.1.34
+8 verbose stack missing: abbrev@~1.0.7, required by npm@2.14.5
+8 verbose stack missing: ansi@~0.3.0, required by npm@2.14.5
+8 verbose stack missing: ansicolors@~0.3.2, required by npm@2.14.5
+8 verbose stack missing: ansistyles@~0.1.3, required by npm@2.14.5
+8 verbose stack missing: archy@~1.0.0, required by npm@2.14.5
+8 verbose stack missing: async-some@~1.0.2, required by npm@2.14.5
+8 verbose stack missing: block-stream@0.0.8, required by npm@2.14.5
+8 verbose stack missing: char-spinner@~1.0.1, required by npm@2.14.5
+8 verbose stack missing: chmodr@~1.0.1, required by npm@2.14.5
+8 verbose stack missing: chownr@~1.0.1, required by npm@2.14.5
+8 verbose stack missing: cmd-shim@~2.0.1, required by npm@2.14.5
+8 verbose stack missing: columnify@~1.5.2, required by npm@2.14.5
+8 verbose stack missing: config-chain@~1.1.9, required by npm@2.14.5
+8 verbose stack missing: dezalgo@~1.0.3, required by npm@2.14.5
+8 verbose stack missing: editor@~1.0.0, required by npm@2.14.5
+8 verbose stack missing: fs-vacuum@~1.2.7, required by npm@2.14.5
+8 verbose stack missing: fs-write-stream-atomic@~1.0.4, required by npm@2.14.5
+8 verbose stack missing: fstream@~1.0.8, required by npm@2.14.5
+8 verbose stack missing: fstream-npm@~1.0.5, required by npm@2.14.5
+8 verbose stack missing: github-url-from-git@~1.4.0, required by npm@2.14.5
+8 verbose stack missing: github-url-from-username-repo@~1.0.2, required by npm@2.14.5
+8 verbose stack missing: glob@~5.0.14, required by npm@2.14.5
+8 verbose stack missing: graceful-fs@~4.1.2, required by npm@2.14.5
+8 verbose stack missing: hosted-git-info@~2.1.4, required by npm@2.14.5
+8 verbose stack missing: inflight@~1.0.4, required by npm@2.14.5
+8 verbose stack missing: inherits@~2.0.1, required by npm@2.14.5
+8 verbose stack missing: ini@~1.3.4, required by npm@2.14.5
+8 verbose stack missing: init-package-json@~1.9.1, required by npm@2.14.5
+8 verbose stack missing: lockfile@~1.0.1, required by npm@2.14.5
+8 verbose stack missing: lru-cache@~2.7.0, required by npm@2.14.5
+8 verbose stack missing: minimatch@~2.0.10, required by npm@2.14.5
+8 verbose stack missing: mkdirp@~0.5.1, required by npm@2.14.5
+8 verbose stack missing: node-gyp@~3.0.3, required by npm@2.14.5
+8 verbose stack missing: nopt@~3.0.4, required by npm@2.14.5
+8 verbose stack missing: normalize-git-url@~3.0.1, required by npm@2.14.5
+8 verbose stack missing: normalize-package-data@~2.3.4, required by npm@2.14.5
+8 verbose stack missing: npm-cache-filename@~1.0.2, required by npm@2.14.5
+8 verbose stack missing: npm-install-checks@~1.0.6, required by npm@2.14.5
+8 verbose stack missing: npm-package-arg@~4.0.2, required by npm@2.14.5
+8 verbose stack missing: npm-registry-client@~7.0.7, required by npm@2.14.5
+8 verbose stack missing: npm-user-validate@~0.1.2, required by npm@2.14.5
+8 verbose stack missing: npmlog@~1.2.1, required by npm@2.14.5
+8 verbose stack missing: once@~1.3.2, required by npm@2.14.5
+8 verbose stack missing: opener@~1.4.1, required by npm@2.14.5
+8 verbose stack missing: osenv@~0.1.3, required by npm@2.14.5
+8 verbose stack missing: path-is-inside@~1.0.0, required by npm@2.14.5
+8 verbose stack missing: read@~1.0.7, required by npm@2.14.5
+8 verbose stack missing: read-installed@~4.0.3, required by npm@2.14.5
+8 verbose stack missing: read-package-json@~2.0.1, required by npm@2.14.5
+8 verbose stack missing: readable-stream@~1.1.13, required by npm@2.14.5
+8 verbose stack missing: realize-package-specifier@~3.0.1, required by npm@2.14.5
+8 verbose stack missing: request@~2.62.0, required by npm@2.14.5
+8 verbose stack missing: retry@~0.8.0, required by npm@2.14.5
+8 verbose stack missing: rimraf@~2.4.3, required by npm@2.14.5
+8 verbose stack missing: semver@~5.0.3, required by npm@2.14.5
+8 verbose stack missing: sha@~2.0.1, required by npm@2.14.5
+8 verbose stack missing: slide@~1.1.6, required by npm@2.14.5
+8 verbose stack missing: sorted-object@~1.0.0, required by npm@2.14.5
+8 verbose stack missing: spdx@~0.4.1, required by npm@2.14.5
+8 verbose stack missing: tar@~2.2.1, required by npm@2.14.5
+8 verbose stack missing: text-table@~0.2.0, required by npm@2.14.5
+8 verbose stack missing: uid-number@0.0.6, required by npm@2.14.5
+8 verbose stack missing: umask@~1.1.0, required by npm@2.14.5
+8 verbose stack missing: validate-npm-package-license@~3.0.1, required by npm@2.14.5
+8 verbose stack missing: validate-npm-package-name@~2.2.2, required by npm@2.14.5
+8 verbose stack missing: which@~1.1.2, required by npm@2.14.5
+8 verbose stack missing: wrappy@~1.0.1, required by npm@2.14.5
+8 verbose stack missing: write-file-atomic@~1.1.3, required by npm@2.14.5
+8 verbose stack missing: fill-range@^2.1.0, required by expand-range@1.8.1
+8 verbose stack missing: ansi-wrap@0.1.0, required by ansi-green@0.1.1
+8 verbose stack missing: for-in@^0.1.4, required by for-own@0.1.3
+8 verbose stack missing: glob-parent@^1.2.0, required by glob-base@0.2.0
+8 verbose stack missing: JSONStream@^1.0.3, required by browserify@11.1.0
+8 verbose stack missing: assert@~1.3.0, required by browserify@11.1.0
+8 verbose stack missing: browser-pack@^5.0.0, required by browserify@11.1.0
+8 verbose stack missing: browser-resolve@^1.7.1, required by browserify@11.1.0
+8 verbose stack missing: browserify-zlib@~0.1.2, required by browserify@11.1.0
+8 verbose stack missing: buffer@^3.0.0, required by browserify@11.1.0
+8 verbose stack missing: builtins@~0.0.3, required by browserify@11.1.0
+8 verbose stack missing: commondir@0.0.1, required by browserify@11.1.0
+8 verbose stack missing: concat-stream@~1.4.1, required by browserify@11.1.0
+8 verbose stack missing: console-browserify@^1.1.0, required by browserify@11.1.0
+8 verbose stack missing: constants-browserify@~0.0.1, required by browserify@11.1.0
+8 verbose stack missing: crypto-browserify@^3.0.0, required by browserify@11.1.0
+8 verbose stack missing: deps-sort@^1.3.7, required by browserify@11.1.0
+8 verbose stack missing: domain-browser@~1.1.0, required by browserify@11.1.0
+8 verbose stack missing: duplexer2@~0.0.2, required by browserify@11.1.0
+8 verbose stack missing: events@~1.0.0, required by browserify@11.1.0
+8 verbose stack missing: glob@^4.0.5, required by browserify@11.1.0
+8 verbose stack missing: has@^1.0.0, required by browserify@11.1.0
+8 verbose stack missing: htmlescape@^1.1.0, required by browserify@11.1.0
+8 verbose stack missing: stream-http@^1.2.0, required by browserify@11.1.0
+8 verbose stack missing: https-browserify@~0.0.0, required by browserify@11.1.0
+8 verbose stack missing: inherits@~2.0.1, required by browserify@11.1.0
+8 verbose stack missing: insert-module-globals@^6.4.1, required by browserify@11.1.0
+8 verbose stack missing: isarray@0.0.1, required by browserify@11.1.0
+8 verbose stack missing: labeled-stream-splicer@^1.0.0, required by browserify@11.1.0
+8 verbose stack missing: module-deps@^3.7.11, required by browserify@11.1.0
+8 verbose stack missing: os-browserify@~0.1.1, required by browserify@11.1.0
+8 verbose stack missing: parents@^1.0.1, required by browserify@11.1.0
+8 verbose stack missing: path-browserify@~0.0.0, required by browserify@11.1.0
+8 verbose stack missing: process@~0.11.0, required by browserify@11.1.0
+8 verbose stack missing: punycode@^1.3.2, required by browserify@11.1.0
+8 verbose stack missing: querystring-es3@~0.2.0, required by browserify@11.1.0
+8 verbose stack missing: read-only-stream@^1.1.1, required by browserify@11.1.0
+8 verbose stack missing: readable-stream@^2.0.2, required by browserify@11.1.0
+8 verbose stack missing: resolve@^1.1.4, required by browserify@11.1.0
+8 verbose stack missing: shasum@^1.0.0, required by browserify@11.1.0
+8 verbose stack missing: shell-quote@~0.0.1, required by browserify@11.1.0
+8 verbose stack missing: stream-browserify@^2.0.0, required by browserify@11.1.0
+8 verbose stack missing: string_decoder@~0.10.0, required by browserify@11.1.0
+8 verbose stack missing: subarg@^1.0.0, required by browserify@11.1.0
+8 verbose stack missing: syntax-error@^1.1.1, required by browserify@11.1.0
+8 verbose stack missing: timers-browserify@^1.0.1, required by browserify@11.1.0
+8 verbose stack missing: tty-browserify@~0.0.0, required by browserify@11.1.0
+8 verbose stack missing: url@~0.10.1, required by browserify@11.1.0
+8 verbose stack missing: util@~0.10.1, required by browserify@11.1.0
+8 verbose stack missing: vm-browserify@~0.0.1, required by browserify@11.1.0
+8 verbose stack missing: lru-cache@2, required by minimatch@0.2.14
+8 verbose stack missing: sigmund@~1.0.0, required by minimatch@0.2.14
+8 verbose stack missing: core-util-is@~1.0.0, required by readable-stream@1.0.33
+8 verbose stack missing: isarray@0.0.1, required by readable-stream@1.0.33
+8 verbose stack missing: string_decoder@~0.10.x, required by readable-stream@1.0.33
+8 verbose stack missing: inherits@~2.0.1, required by readable-stream@1.0.33
+8 verbose stack invalid: through2@0.6.5 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\watchify\node_modules\through2
+8 verbose stack     at shrinkwrap_ (C:\Program Files\nodejs\node_modules\npm\lib\shrinkwrap.js:37:15)
+8 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\shrinkwrap.js:31:5
+8 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\ls.js:47:30
+8 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+8 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+8 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+8 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+8 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+8 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+8 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+9 verbose cwd C:\Users\Venkata\workspace\APP
+10 error Windows_NT 10.0.10240
+11 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "shrinkwrap"
+12 error node v4.1.0
+13 error npm  v2.14.3
+14 error Problems were encountered
+14 error Please correct and try again.
+14 error missing: babel-plugin-constant-folding@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-dead-code-elimination@^1.0.2, required by babel-core@5.8.25
+14 error missing: babel-plugin-eval@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-inline-environment-variables@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-jscript@^1.0.4, required by babel-core@5.8.25
+14 error missing: babel-plugin-member-expression-literals@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-property-literals@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-proto-to-assign@^1.0.3, required by babel-core@5.8.25
+14 error missing: babel-plugin-react-constant-elements@^1.0.3, required by babel-core@5.8.25
+14 error missing: babel-plugin-react-display-name@^1.0.3, required by babel-core@5.8.25
+14 error missing: babel-plugin-remove-console@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-remove-debugger@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-runtime@^1.0.7, required by babel-core@5.8.25
+14 error missing: babel-plugin-undeclared-variables-check@^1.0.2, required by babel-core@5.8.25
+14 error missing: babel-plugin-undefined-to-void@^1.1.6, required by babel-core@5.8.25
+14 error missing: babylon@^5.8.23, required by babel-core@5.8.25
+14 error missing: bluebird@^2.9.33, required by babel-core@5.8.25
+14 error missing: chalk@^1.0.0, required by babel-core@5.8.25
+14 error missing: convert-source-map@^1.1.0, required by babel-core@5.8.25
+14 error missing: core-js@^1.0.0, required by babel-core@5.8.25
+14 error missing: debug@^2.1.1, required by babel-core@5.8.25
+14 error missing: detect-indent@^3.0.0, required by babel-core@5.8.25
+14 error missing: esutils@^2.0.0, required by babel-core@5.8.25
+14 error missing: fs-readdir-recursive@^0.1.0, required by babel-core@5.8.25
+14 error missing: globals@^6.4.0, required by babel-core@5.8.25
+14 error missing: home-or-tmp@^1.0.0, required by babel-core@5.8.25
+14 error missing: is-integer@^1.0.4, required by babel-core@5.8.25
+14 error missing: js-tokens@1.0.1, required by babel-core@5.8.25
+14 error missing: json5@^0.4.0, required by babel-core@5.8.25
+14 error missing: line-numbers@0.2.0, required by babel-core@5.8.25
+14 error missing: lodash@^3.10.0, required by babel-core@5.8.25
+14 error missing: minimatch@^2.0.3, required by babel-core@5.8.25
+14 error missing: output-file-sync@^1.1.0, required by babel-core@5.8.25
+14 error missing: path-exists@^1.0.0, required by babel-core@5.8.25
+14 error missing: path-is-absolute@^1.0.0, required by babel-core@5.8.25
+14 error missing: private@^0.1.6, required by babel-core@5.8.25
+14 error missing: regenerator@0.8.35, required by babel-core@5.8.25
+14 error missing: regexpu@^1.1.2, required by babel-core@5.8.25
+14 error missing: repeating@^1.1.2, required by babel-core@5.8.25
+14 error missing: resolve@^1.1.6, required by babel-core@5.8.25
+14 error missing: shebang-regex@^1.0.0, required by babel-core@5.8.25
+14 error missing: slash@^1.0.0, required by babel-core@5.8.25
+14 error missing: source-map@^0.4.0, required by babel-core@5.8.25
+14 error missing: source-map-support@^0.2.10, required by babel-core@5.8.25
+14 error missing: to-fast-properties@^1.0.0, required by babel-core@5.8.25
+14 error missing: trim-right@^1.0.0, required by babel-core@5.8.25
+14 error missing: try-resolve@^1.0.0, required by babel-core@5.8.25
+14 error missing: JSONStream@~0.10.0, required by browserify@9.0.8
+14 error missing: assert@~1.3.0, required by browserify@9.0.8
+14 error missing: browser-pack@^4.0.0, required by browserify@9.0.8
+14 error missing: browser-resolve@^1.7.1, required by browserify@9.0.8
+14 error missing: browserify-zlib@~0.1.2, required by browserify@9.0.8
+14 error missing: buffer@^3.0.0, required by browserify@9.0.8
+14 error missing: builtins@~0.0.3, required by browserify@9.0.8
+14 error missing: commondir@0.0.1, required by browserify@9.0.8
+14 error missing: concat-stream@~1.4.1, required by browserify@9.0.8
+14 error missing: console-browserify@^1.1.0, required by browserify@9.0.8
+14 error missing: constants-browserify@~0.0.1, required by browserify@9.0.8
+14 error missing: crypto-browserify@^3.0.0, required by browserify@9.0.8
+14 error missing: deep-equal@^1.0.0, required by browserify@9.0.8
+14 error missing: defined@~0.0.0, required by browserify@9.0.8
+14 error missing: deps-sort@^1.3.5, required by browserify@9.0.8
+14 error missing: domain-browser@~1.1.0, required by browserify@9.0.8
+14 error missing: duplexer2@~0.0.2, required by browserify@9.0.8
+14 error missing: events@~1.0.0, required by browserify@9.0.8
+14 error missing: glob@^4.0.5, required by browserify@9.0.8
+14 error missing: has@^1.0.0, required by browserify@9.0.8
+14 error missing: http-browserify@^1.4.0, required by browserify@9.0.8
+14 error missing: https-browserify@~0.0.0, required by browserify@9.0.8
+14 error missing: inherits@~2.0.1, required by browserify@9.0.8
+14 error missing: insert-module-globals@^6.2.0, required by browserify@9.0.8
+14 error missing: isarray@0.0.1, required by browserify@9.0.8
+14 error missing: labeled-stream-splicer@^1.0.0, required by browserify@9.0.8
+14 error missing: module-deps@^3.7.0, required by browserify@9.0.8
+14 error missing: os-browserify@~0.1.1, required by browserify@9.0.8
+14 error missing: parents@^1.0.1, required by browserify@9.0.8
+14 error missing: path-browserify@~0.0.0, required by browserify@9.0.8
+14 error missing: process@^0.10.0, required by browserify@9.0.8
+14 error missing: punycode@~1.2.3, required by browserify@9.0.8
+14 error missing: querystring-es3@~0.2.0, required by browserify@9.0.8
+14 error missing: read-only-stream@^1.1.1, required by browserify@9.0.8
+14 error missing: readable-stream@^1.1.13, required by browserify@9.0.8
+14 error missing: resolve@^1.1.4, required by browserify@9.0.8
+14 error missing: shallow-copy@0.0.1, required by browserify@9.0.8
+14 error missing: shasum@^1.0.0, required by browserify@9.0.8
+14 error missing: shell-quote@~0.0.1, required by browserify@9.0.8
+14 error missing: stream-browserify@^1.0.0, required by browserify@9.0.8
+14 error missing: string_decoder@~0.10.0, required by browserify@9.0.8
+14 error missing: subarg@^1.0.0, required by browserify@9.0.8
+14 error missing: syntax-error@^1.1.1, required by browserify@9.0.8
+14 error missing: through2@^1.0.0, required by browserify@9.0.8
+14 error missing: timers-browserify@^1.0.1, required by browserify@9.0.8
+14 error missing: tty-browserify@~0.0.0, required by browserify@9.0.8
+14 error missing: url@~0.10.1, required by browserify@9.0.8
+14 error missing: util@~0.10.1, required by browserify@9.0.8
+14 error missing: vm-browserify@~0.0.1, required by browserify@9.0.8
+14 error missing: xtend@^3.0.0, required by browserify@9.0.8
+14 error missing: source-map@~0.1.40, required by postcss@2.2.6
+14 error missing: js-base64@~2.1.5, required by postcss@2.2.6
+14 error missing: babel-plugin-constant-folding@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-dead-code-elimination@^1.0.2, required by babel-core@5.8.25
+14 error missing: babel-plugin-eval@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-inline-environment-variables@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-jscript@^1.0.4, required by babel-core@5.8.25
+14 error missing: babel-plugin-member-expression-literals@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-property-literals@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-proto-to-assign@^1.0.3, required by babel-core@5.8.25
+14 error missing: babel-plugin-react-constant-elements@^1.0.3, required by babel-core@5.8.25
+14 error missing: babel-plugin-react-display-name@^1.0.3, required by babel-core@5.8.25
+14 error missing: babel-plugin-remove-console@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-remove-debugger@^1.0.1, required by babel-core@5.8.25
+14 error missing: babel-plugin-runtime@^1.0.7, required by babel-core@5.8.25
+14 error missing: babel-plugin-undeclared-variables-check@^1.0.2, required by babel-core@5.8.25
+14 error missing: babel-plugin-undefined-to-void@^1.1.6, required by babel-core@5.8.25
+14 error missing: babylon@^5.8.23, required by babel-core@5.8.25
+14 error missing: bluebird@^2.9.33, required by babel-core@5.8.25
+14 error missing: chalk@^1.0.0, required by babel-core@5.8.25
+14 error missing: convert-source-map@^1.1.0, required by babel-core@5.8.25
+14 error missing: core-js@^1.0.0, required by babel-core@5.8.25
+14 error missing: debug@^2.1.1, required by babel-core@5.8.25
+14 error missing: detect-indent@^3.0.0, required by babel-core@5.8.25
+14 error missing: esutils@^2.0.0, required by babel-core@5.8.25
+14 error missing: fs-readdir-recursive@^0.1.0, required by babel-core@5.8.25
+14 error missing: globals@^6.4.0, required by babel-core@5.8.25
+14 error missing: home-or-tmp@^1.0.0, required by babel-core@5.8.25
+14 error missing: is-integer@^1.0.4, required by babel-core@5.8.25
+14 error missing: js-tokens@1.0.1, required by babel-core@5.8.25
+14 error missing: json5@^0.4.0, required by babel-core@5.8.25
+14 error missing: line-numbers@0.2.0, required by babel-core@5.8.25
+14 error missing: lodash@^3.10.0, required by babel-core@5.8.25
+14 error missing: minimatch@^2.0.3, required by babel-core@5.8.25
+14 error missing: output-file-sync@^1.1.0, required by babel-core@5.8.25
+14 error missing: path-exists@^1.0.0, required by babel-core@5.8.25
+14 error missing: path-is-absolute@^1.0.0, required by babel-core@5.8.25
+14 error missing: private@^0.1.6, required by babel-core@5.8.25
+14 error missing: regenerator@0.8.35, required by babel-core@5.8.25
+14 error missing: regexpu@^1.1.2, required by babel-core@5.8.25
+14 error missing: repeating@^1.1.2, required by babel-core@5.8.25
+14 error missing: resolve@^1.1.6, required by babel-core@5.8.25
+14 error missing: shebang-regex@^1.0.0, required by babel-core@5.8.25
+14 error missing: slash@^1.0.0, required by babel-core@5.8.25
+14 error missing: source-map@^0.4.0, required by babel-core@5.8.25
+14 error missing: source-map-support@^0.2.10, required by babel-core@5.8.25
+14 error missing: to-fast-properties@^1.0.0, required by babel-core@5.8.25
+14 error missing: trim-right@^1.0.0, required by babel-core@5.8.25
+14 error missing: try-resolve@^1.0.0, required by babel-core@5.8.25
+14 error missing: balanced-match@^0.2.0, required by brace-expansion@1.1.0
+14 error missing: concat-map@0.0.1, required by brace-expansion@1.1.0
+14 error missing: amdefine@>=0.0.4, required by source-map@0.1.34
+14 error missing: camelcase@^1.0.2, required by yargs@3.5.4
+14 error missing: decamelize@^1.0.0, required by yargs@3.5.4
+14 error missing: window-size@0.1.0, required by yargs@3.5.4
+14 error missing: wordwrap@0.0.2, required by yargs@3.5.4
+14 error missing: amdefine@>=0.0.4, required by source-map@0.1.43
+14 error missing: amdefine@>=0.0.4, required by source-map@0.1.43
+14 error missing: ansi-regex@^0.2.0, required by has-ansi@0.1.0
+14 error missing: ansi-regex@^0.2.1, required by strip-ansi@0.3.0
+14 error missing: get-stdin@*, required by dateformat@1.0.11
+14 error missing: meow@*, required by dateformat@1.0.11
+14 error missing: readable-stream@~1.1.9, required by duplexer2@0.0.2
+14 error missing: core-util-is@~1.0.0, required by readable-stream@1.0.33
+14 error missing: isarray@0.0.1, required by readable-stream@1.0.33
+14 error missing: string_decoder@~0.10.x, required by readable-stream@1.0.33
+14 error missing: inherits@~2.0.1, required by readable-stream@1.0.33
+14 error missing: clone-stats@~0.0.1, required by vinyl@0.2.3
+14 error missing: semver@^3.0.1, required by node-notifier@3.4.1
+14 error missing: shellwords@^0.1.0, required by node-notifier@3.4.1
+14 error missing: which@^1.0.5, required by node-notifier@3.4.1
+14 error missing: growly@^1.1.1, required by node-notifier@3.4.1
+14 error missing: ansi-regex@^2.0.0, required by has-ansi@2.0.0
+14 error missing: ansi-regex@^2.0.0, required by strip-ansi@3.0.0
+14 error missing: get-stdin@*, required by dateformat@1.0.11
+14 error missing: meow@*, required by dateformat@1.0.11
+14 error missing: lodash._getnative@^3.0.0, required by lodash.keys@3.1.2
+14 error missing: lodash.isarguments@^3.0.0, required by lodash.keys@3.1.2
+14 error missing: lodash.isarray@^3.0.0, required by lodash.keys@3.1.2
+14 error missing: readable-stream@~1.1.9, required by duplexer2@0.0.2
+14 error missing: core-util-is@~1.0.0, required by readable-stream@2.0.2
+14 error missing: inherits@~2.0.1, required by readable-stream@2.0.2
+14 error missing: isarray@0.0.1, required by readable-stream@2.0.2
+14 error missing: process-nextick-args@~1.0.0, required by readable-stream@2.0.2
+14 error missing: string_decoder@~0.10.x, required by readable-stream@2.0.2
+14 error missing: util-deprecate@~1.0.1, required by readable-stream@2.0.2
+14 error missing: clone@^1.0.0, required by vinyl@0.5.3
+14 error missing: clone-stats@^0.0.1, required by vinyl@0.5.3
+14 error invalid: get-stdin@5.0.0 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpspec\node_modules\gulp-todo\node_modules\gulp-util\node_modules\dateformat\node_modules\get-stdin
+14 error missing: camelcase@^1.0.1, required by camelcase-keys@1.0.0
+14 error missing: map-obj@^1.0.0, required by camelcase-keys@1.0.0
+14 error missing: repeating@^1.1.0, required by indent-string@1.2.2
+14 error missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+14 error missing: isarray@0.0.1, required by readable-stream@1.1.13
+14 error missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+14 error missing: inherits@~2.0.1, required by readable-stream@1.1.13
+14 error missing: balanced-match@^0.2.0, required by brace-expansion@1.1.0
+14 error missing: concat-map@0.0.1, required by brace-expansion@1.1.0
+14 error missing: is-finite@^1.0.0, required by repeating@1.1.3
+14 error missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+14 error missing: isarray@0.0.1, required by readable-stream@1.1.13
+14 error missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+14 error missing: inherits@~2.0.1, required by readable-stream@1.1.13
+14 error missing: is-finite@^1.0.0, required by repeating@1.1.3
+14 error missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+14 error missing: isarray@0.0.1, required by readable-stream@1.1.13
+14 error missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+14 error missing: inherits@~2.0.1, required by readable-stream@1.1.13
+14 error invalid: get-stdin@5.0.0 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-phpunit\node_modules\gulp\node_modules\gulp-util\node_modules\dateformat\node_modules\get-stdin
+14 error missing: camelcase@^1.0.1, required by camelcase-keys@1.0.0
+14 error missing: map-obj@^1.0.0, required by camelcase-keys@1.0.0
+14 error missing: repeating@^1.1.0, required by indent-string@1.2.2
+14 error missing: core-util-is@~1.0.0, required by readable-stream@1.1.13
+14 error missing: isarray@0.0.1, required by readable-stream@1.1.13
+14 error missing: string_decoder@~0.10.x, required by readable-stream@1.1.13
+14 error missing: inherits@~2.0.1, required by readable-stream@1.1.13
+14 error missing: wrappy@1, required by inflight@1.0.4
+14 error missing: brace-expansion@^1.0.0, required by minimatch@2.0.10
+14 error missing: wrappy@1, required by once@1.3.2
+14 error missing: wrappy@1, required by inflight@1.0.4
+14 error missing: wrappy@1, required by once@1.3.2
+14 error missing: balanced-match@^0.2.0, required by brace-expansion@1.1.0
+14 error missing: concat-map@0.0.1, required by brace-expansion@1.1.0
+14 error missing: lodash@~1.0.1, required by globule@0.1.0
+14 error missing: glob@~3.1.21, required by globule@0.1.0
+14 error missing: minimatch@~0.2.11, required by globule@0.1.0
+14 error missing: readable-stream@~2.0.0, required by through2@2.0.0
+14 error missing: inherits@1, required by glob@3.1.21
+14 error missing: lru-cache@2, required by minimatch@0.2.14
+14 error missing: sigmund@~1.0.0, required by minimatch@0.2.14
+14 error invalid: graceful-fs@3.0.8 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\gulp-ruby-sass\node_modules\vinyl-fs\node_modules\graceful-fs
+14 error missing: async-foreach@^0.1.3, required by node-sass@3.3.3
+14 error missing: chalk@^1.1.1, required by node-sass@3.3.3
+14 error missing: cross-spawn@^2.0.0, required by node-sass@3.3.3
+14 error missing: gaze@^0.5.1, required by node-sass@3.3.3
+14 error missing: get-stdin@^4.0.1, required by node-sass@3.3.3
+14 error missing: glob@^5.0.14, required by node-sass@3.3.3
+14 error missing: meow@^3.3.0, required by node-sass@3.3.3
+14 error missing: mkdirp@^0.5.1, required by node-sass@3.3.3
+14 error missing: nan@^2.0.8, required by node-sass@3.3.3
+14 error missing: npmconf@^2.1.2, required by node-sass@3.3.3
+14 error missing: node-gyp@^3.0.1, required by node-sass@3.3.3
+14 error missing: request@^2.61.0, required by node-sass@3.3.3
+14 error missing: sass-graph@^2.0.1, required by node-sass@3.3.3
+14 error missing: number-is-nan@^1.0.0, required by is-finite@1.0.1
+14 error missing: amdefine@>=0.0.4, required by source-map@0.1.34
+14 error missing: abbrev@~1.0.7, required by npm@2.14.5
+14 error missing: ansi@~0.3.0, required by npm@2.14.5
+14 error missing: ansicolors@~0.3.2, required by npm@2.14.5
+14 error missing: ansistyles@~0.1.3, required by npm@2.14.5
+14 error missing: archy@~1.0.0, required by npm@2.14.5
+14 error missing: async-some@~1.0.2, required by npm@2.14.5
+14 error missing: block-stream@0.0.8, required by npm@2.14.5
+14 error missing: char-spinner@~1.0.1, required by npm@2.14.5
+14 error missing: chmodr@~1.0.1, required by npm@2.14.5
+14 error missing: chownr@~1.0.1, required by npm@2.14.5
+14 error missing: cmd-shim@~2.0.1, required by npm@2.14.5
+14 error missing: columnify@~1.5.2, required by npm@2.14.5
+14 error missing: config-chain@~1.1.9, required by npm@2.14.5
+14 error missing: dezalgo@~1.0.3, required by npm@2.14.5
+14 error missing: editor@~1.0.0, required by npm@2.14.5
+14 error missing: fs-vacuum@~1.2.7, required by npm@2.14.5
+14 error missing: fs-write-stream-atomic@~1.0.4, required by npm@2.14.5
+14 error missing: fstream@~1.0.8, required by npm@2.14.5
+14 error missing: fstream-npm@~1.0.5, required by npm@2.14.5
+14 error missing: github-url-from-git@~1.4.0, required by npm@2.14.5
+14 error missing: github-url-from-username-repo@~1.0.2, required by npm@2.14.5
+14 error missing: glob@~5.0.14, required by npm@2.14.5
+14 error missing: graceful-fs@~4.1.2, required by npm@2.14.5
+14 error missing: hosted-git-info@~2.1.4, required by npm@2.14.5
+14 error missing: inflight@~1.0.4, required by npm@2.14.5
+14 error missing: inherits@~2.0.1, required by npm@2.14.5
+14 error missing: ini@~1.3.4, required by npm@2.14.5
+14 error missing: init-package-json@~1.9.1, required by npm@2.14.5
+14 error missing: lockfile@~1.0.1, required by npm@2.14.5
+14 error missing: lru-cache@~2.7.0, required by npm@2.14.5
+14 error missing: minimatch@~2.0.10, required by npm@2.14.5
+14 error missing: mkdirp@~0.5.1, required by npm@2.14.5
+14 error missing: node-gyp@~3.0.3, required by npm@2.14.5
+14 error missing: nopt@~3.0.4, required by npm@2.14.5
+14 error missing: normalize-git-url@~3.0.1, required by npm@2.14.5
+14 error missing: normalize-package-data@~2.3.4, required by npm@2.14.5
+14 error missing: npm-cache-filename@~1.0.2, required by npm@2.14.5
+14 error missing: npm-install-checks@~1.0.6, required by npm@2.14.5
+14 error missing: npm-package-arg@~4.0.2, required by npm@2.14.5
+14 error missing: npm-registry-client@~7.0.7, required by npm@2.14.5
+14 error missing: npm-user-validate@~0.1.2, required by npm@2.14.5
+14 error missing: npmlog@~1.2.1, required by npm@2.14.5
+14 error missing: once@~1.3.2, required by npm@2.14.5
+14 error missing: opener@~1.4.1, required by npm@2.14.5
+14 error missing: osenv@~0.1.3, required by npm@2.14.5
+14 error missing: path-is-inside@~1.0.0, required by npm@2.14.5
+14 error missing: read@~1.0.7, required by npm@2.14.5
+14 error missing: read-installed@~4.0.3, required by npm@2.14.5
+14 error missing: read-package-json@~2.0.1, required by npm@2.14.5
+14 error missing: readable-stream@~1.1.13, required by npm@2.14.5
+14 error missing: realize-package-specifier@~3.0.1, required by npm@2.14.5
+14 error missing: request@~2.62.0, required by npm@2.14.5
+14 error missing: retry@~0.8.0, required by npm@2.14.5
+14 error missing: rimraf@~2.4.3, required by npm@2.14.5
+14 error missing: semver@~5.0.3, required by npm@2.14.5
+14 error missing: sha@~2.0.1, required by npm@2.14.5
+14 error missing: slide@~1.1.6, required by npm@2.14.5
+14 error missing: sorted-object@~1.0.0, required by npm@2.14.5
+14 error missing: spdx@~0.4.1, required by npm@2.14.5
+14 error missing: tar@~2.2.1, required by npm@2.14.5
+14 error missing: text-table@~0.2.0, required by npm@2.14.5
+14 error missing: uid-number@0.0.6, required by npm@2.14.5
+14 error missing: umask@~1.1.0, required by npm@2.14.5
+14 error missing: validate-npm-package-license@~3.0.1, required by npm@2.14.5
+14 error missing: validate-npm-package-name@~2.2.2, required by npm@2.14.5
+14 error missing: which@~1.1.2, required by npm@2.14.5
+14 error missing: wrappy@~1.0.1, required by npm@2.14.5
+14 error missing: write-file-atomic@~1.1.3, required by npm@2.14.5
+14 error missing: fill-range@^2.1.0, required by expand-range@1.8.1
+14 error missing: ansi-wrap@0.1.0, required by ansi-green@0.1.1
+14 error missing: for-in@^0.1.4, required by for-own@0.1.3
+14 error missing: glob-parent@^1.2.0, required by glob-base@0.2.0
+14 error missing: JSONStream@^1.0.3, required by browserify@11.1.0
+14 error missing: assert@~1.3.0, required by browserify@11.1.0
+14 error missing: browser-pack@^5.0.0, required by browserify@11.1.0
+14 error missing: browser-resolve@^1.7.1, required by browserify@11.1.0
+14 error missing: browserify-zlib@~0.1.2, required by browserify@11.1.0
+14 error missing: buffer@^3.0.0, required by browserify@11.1.0
+14 error missing: builtins@~0.0.3, required by browserify@11.1.0
+14 error missing: commondir@0.0.1, required by browserify@11.1.0
+14 error missing: concat-stream@~1.4.1, required by browserify@11.1.0
+14 error missing: console-browserify@^1.1.0, required by browserify@11.1.0
+14 error missing: constants-browserify@~0.0.1, required by browserify@11.1.0
+14 error missing: crypto-browserify@^3.0.0, required by browserify@11.1.0
+14 error missing: deps-sort@^1.3.7, required by browserify@11.1.0
+14 error missing: domain-browser@~1.1.0, required by browserify@11.1.0
+14 error missing: duplexer2@~0.0.2, required by browserify@11.1.0
+14 error missing: events@~1.0.0, required by browserify@11.1.0
+14 error missing: glob@^4.0.5, required by browserify@11.1.0
+14 error missing: has@^1.0.0, required by browserify@11.1.0
+14 error missing: htmlescape@^1.1.0, required by browserify@11.1.0
+14 error missing: stream-http@^1.2.0, required by browserify@11.1.0
+14 error missing: https-browserify@~0.0.0, required by browserify@11.1.0
+14 error missing: inherits@~2.0.1, required by browserify@11.1.0
+14 error missing: insert-module-globals@^6.4.1, required by browserify@11.1.0
+14 error missing: isarray@0.0.1, required by browserify@11.1.0
+14 error missing: labeled-stream-splicer@^1.0.0, required by browserify@11.1.0
+14 error missing: module-deps@^3.7.11, required by browserify@11.1.0
+14 error missing: os-browserify@~0.1.1, required by browserify@11.1.0
+14 error missing: parents@^1.0.1, required by browserify@11.1.0
+14 error missing: path-browserify@~0.0.0, required by browserify@11.1.0
+14 error missing: process@~0.11.0, required by browserify@11.1.0
+14 error missing: punycode@^1.3.2, required by browserify@11.1.0
+14 error missing: querystring-es3@~0.2.0, required by browserify@11.1.0
+14 error missing: read-only-stream@^1.1.1, required by browserify@11.1.0
+14 error missing: readable-stream@^2.0.2, required by browserify@11.1.0
+14 error missing: resolve@^1.1.4, required by browserify@11.1.0
+14 error missing: shasum@^1.0.0, required by browserify@11.1.0
+14 error missing: shell-quote@~0.0.1, required by browserify@11.1.0
+14 error missing: stream-browserify@^2.0.0, required by browserify@11.1.0
+14 error missing: string_decoder@~0.10.0, required by browserify@11.1.0
+14 error missing: subarg@^1.0.0, required by browserify@11.1.0
+14 error missing: syntax-error@^1.1.1, required by browserify@11.1.0
+14 error missing: timers-browserify@^1.0.1, required by browserify@11.1.0
+14 error missing: tty-browserify@~0.0.0, required by browserify@11.1.0
+14 error missing: url@~0.10.1, required by browserify@11.1.0
+14 error missing: util@~0.10.1, required by browserify@11.1.0
+14 error missing: vm-browserify@~0.0.1, required by browserify@11.1.0
+14 error missing: lru-cache@2, required by minimatch@0.2.14
+14 error missing: sigmund@~1.0.0, required by minimatch@0.2.14
+14 error missing: core-util-is@~1.0.0, required by readable-stream@1.0.33
+14 error missing: isarray@0.0.1, required by readable-stream@1.0.33
+14 error missing: string_decoder@~0.10.x, required by readable-stream@1.0.33
+14 error missing: inherits@~2.0.1, required by readable-stream@1.0.33
+14 error invalid: through2@0.6.5 C:\Users\Venkata\workspace\APP\node_modules\laravel-elixir\node_modules\watchify\node_modules\through2
+15 error If you need help, you may report this error at:
+15 error     <https://github.com/npm/npm/issues>
+16 verbose exit [ 1, true ]
